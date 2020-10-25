@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "POLYGON - Samurai Pack | 3D Environments | Unity Asset Store",
+      "message": {
+        "embeds": [
+          {
+            "title": "POLYGON - Samurai Pack | 3D Environments | Unity Asset Store",
+            "description": "A low poly asset pack of characters, buildings, props, items and environment assets to create a fantasy based polygonal style game.",
+            "color": 65292,
+            "fields": [
+              {
+                "name": "Check out the link below to watch the video:",
+                "value": "https://learn.unity.com/tutorial/introduction-to-shader-graph?projectId=5d0a4b59edbc2a001fe52445&_ga=2.267453574.962287868.1603596640-880860179.1597417260"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-25T03:37:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c669aca0-985e-4da2-b7a0-597973cd5718.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
